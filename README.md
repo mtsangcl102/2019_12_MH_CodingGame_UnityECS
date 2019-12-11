@@ -20,6 +20,7 @@ This time, we are going to finish below things:
 - Just 3 game objects in hierarchy : Main Camera, Light, GameManager(for init everything)
 - After init terrian, FPS above 30( as high as you can )
 - Just GameManager is MonoBehaviour script
+- All terrian and character are entites
 
 -----------------------------------------------------------------------------------------
 Remark :
