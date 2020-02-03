@@ -19,12 +19,14 @@ This time, we are going to finish below things:
 4. Below rules must follow
 - Just 3 game objects in hierarchy : Main Camera, Light, GameManager(for init everything)
 - After init terrian, FPS above 30( as high as you can )
+- Just GameManager is MonoBehaviour script
+- All terrian and character are entites
 
 -----------------------------------------------------------------------------------------
 Remark :
-if watching Unity official tutorial of ECS
+if watching Unity official tutorial of ECS, Unity version must be 2018.1
+(Not Recommend)!!!
 - https://learn.unity.com/tutorial/entity-component-system
-Unity version must be 2018.1
 
 Recommend Unity version after 2019.1 and link may be helpful
 - https://docs.unity3d.com/Packages/com.unity.entities@0.0/manual/index.html
